@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@vueuse/core": "^8.7.5",
-    "pinia": "^2.0.14",
+    "pinia": "^2.0.22",
     "three": "^0.142.0",
     "three-globe": "^2.24.5",
     "vue": "^3.2.37",
