@@ -20,3 +20,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+Find tutorials on similar projects at
+[www.marcusn.dev](https://marcusn.dev)
