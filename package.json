@@ -11,8 +11,8 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "pinia": "^2.0.35",
     "@vueuse/core": "^10.1.0",
-    "pinia": "^2.0.22",
     "three": "^0.148.0",
     "three-globe": "^2.24.7",
     "vue": "^3.2.37",
