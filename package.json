@@ -14,8 +14,8 @@
     "pinia": "^2.0.35",
     "@vueuse/core": "^10.1.0",
     "three": "^0.148.0",
+    "vue": "^3.2.47",
     "three-globe": "^2.27.0",
-    "vue": "^3.2.37",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
