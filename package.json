@@ -16,7 +16,7 @@
     "three": "^0.148.0",
     "vue": "^3.2.47",
     "three-globe": "^2.27.0",
-    "vue-router": "^4.1.6"
+    "vue-router": "^4.2.2"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.2.0",
